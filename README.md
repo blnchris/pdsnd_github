@@ -5,10 +5,10 @@
 My First Python Project
 
 ### Description
-Describe what your project is about and what it does
+Analysing US Bike Share Data
 
 ### Files used
-Include the files used
+new_York_City.csv #chicago.csv #washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
